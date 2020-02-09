@@ -9,7 +9,7 @@ import epam.com.calculatorwindow.*;
 import epam.com.calculatorproject.*;
 
 public class ActionEvent implements ActionListener {
-	String s1="",s2="",s0="";
+	private String s1="",s2="",s0="";
 	
 	private JButton b;
 	private JTextField tf;
